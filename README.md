@@ -27,9 +27,9 @@ This repository contains code and documentation for the diploma thesis titled "Î
   - `DUTH_logo.png`: Logo of the Democritus University of Thrace.
 
 - `results/`: Plot results folder.
-  - `Comparison_1/`: Depth comparison plot results.
-  - `Comparison_2/`: Width & Se comparison plot results.
-  - `Comparison_3/`: Self-Supervision impact comparison plot results.
+  - `Comparison 1/`: Depth comparison plot results.
+  - `Comparison 2/`: Width & Se comparison plot results.
+  - `Comparison 3/`: Self-Supervision impact comparison plot results.
 
 ## Abstract
 
