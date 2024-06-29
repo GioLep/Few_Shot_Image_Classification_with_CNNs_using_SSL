@@ -23,6 +23,9 @@ This repository contains code and documentation for the diploma thesis titled "Î
   - `Comparison_of_Depth-Width_Impact_and_SEBlock/`: Respective experimental notebooks.
   - `Comparison_of_Self-Supervision_Impact_(VAE)/`: Respective experimental notebooks.
 
+- **images/**: Contains images used in the documentation.
+  - `DUTH_logo.png`: Logo of the Democritus University of Thrace.
+
 ## Abstract
 
 
@@ -116,6 +119,8 @@ Chapter 3 Presentation of Experiments
 - Python 3.x
 - Jupyter Notebook
 - Required libraries (listed in the `requirements.txt`)
+
+### Utilized Datasets
 
 
 ## References
