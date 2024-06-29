@@ -127,6 +127,11 @@ Chapter 3 Presentation of Experiments
 
 ### Utilized Datasets
 
+### Python Basis Implementations
+
+- [Baseline - Generation-0 - Rotation Self-Supervision](https://github.com/brjathu/SKD)
+- [VAE Self-Supervision](https://github.com/julianstastny/VAE-ResNet18-PyTorch)
+
 
 ## References
 
