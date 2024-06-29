@@ -125,7 +125,11 @@ Chapter 3 Presentation of Experiments
 - Jupyter Notebook
 - Required libraries (listed in the `requirements.txt`)
 
-### Utilized Datasets
+### Datasets
+
+The datasets used in this thesis were CIFAR-FS and FC-100. These datasets were preprocessed by the MetaOptNet repository. For convenience, the renamed versions of the datasets are provided by RFS and can be downloaded from the following link:
+
+- [DropBox Data Packages Link](https://www.dropbox.com/sh/somepath/to/data)
 
 ### Python Basis Implementations
 
