@@ -129,7 +129,7 @@ Chapter 3 Presentation of Experiments
 
 The datasets used in this thesis were CIFAR-FS and FC-100. These datasets were preprocessed by the MetaOptNet repository. For convenience, the renamed versions of the datasets are provided by RFS and can be downloaded from the following link:
 
-- [DropBox Data Packages Link](https://www.dropbox.com/sh/somepath/to/data)
+- [DropBox Data Packages Link](https://www.dropbox.com/sh/6yd1ygtyc3yd981/AABVeEqzC08YQv4UZk7lNHvya?e=1&dl=0)
 
 ### Python Basis Implementations
 
