@@ -111,7 +111,11 @@ Chapter 3 Presentation of Experiments
 3.3.1 Assessment  
 3.3.2 Future Endeavors
 
+### Utilized Environment/Tools
 
+- Python 3.x
+- Jupyter Notebook
+- Required libraries (listed in the `requirements.txt`)
 
 
 ## References
