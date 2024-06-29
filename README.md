@@ -8,7 +8,7 @@ This repository contains code and documentation for the diploma thesis titled "Î
 - **Location**: Xanthi, Greece
 - **Supervisor**: Yannis Boutalis
 
-![DUTH Logo](https://example.com/path/to/your/image.png)
+![DUTH Logo](https://github.com/GioLep/Few_Shot_Image_Classification_with_CNNs/blob/main/images/DUTH%20Logo.png)
 
 ## Structure
 
