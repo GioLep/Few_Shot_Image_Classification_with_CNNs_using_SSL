@@ -23,8 +23,13 @@ This repository contains code and documentation for the diploma thesis titled "Î
   - `Comparison_of_Depth-Width_Impact_and_SEBlock/`: Respective experimental notebooks.
   - `Comparison_of_Self-Supervision_Impact_(VAE)/`: Respective experimental notebooks.
 
-- **images/**: Contains images used in the documentation.
+- `images/`: Contains images used in the documentation.
   - `DUTH_logo.png`: Logo of the Democritus University of Thrace.
+
+- `results/`: Plot results folder.
+  - `Comparison_1/`: Depth comparison plot results.
+  - `Comparison_2/`: Width & Se comparison plot results.
+  - `Comparison_3/`: Self-Supervision impact comparison plot results.
 
 ## Abstract
 
@@ -125,7 +130,6 @@ Chapter 3 Presentation of Experiments
 
 ## References
 
-## References
 
 [1] Jathushan Rajasegaran et al., "Self-supervised Knowledge Distillation for Few-shot Learning", https://github.com/brjathu/SKD
 
@@ -134,3 +138,9 @@ Chapter 3 Presentation of Experiments
 [32] SE block: Hu, Jie, Li Shen, and Gang Sun. "Squeeze-and-excitation networks." Proceedings of the IEEE conference on computer vision and pattern recognition. 2018.
 
 [63] Variational Autoencoder: Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013).
+
+
+## Keywords
+
+Data Science, Machine Learning, Deep Learning, Few-Shot Learning, Self-Supervised Learning, Computer Vision, Image Classification, Convolutional Neural Networks, Artificial Neural Networks, Autoencoders
+
