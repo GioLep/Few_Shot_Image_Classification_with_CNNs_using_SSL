@@ -142,5 +142,5 @@ Chapter 3 Presentation of Experiments
 
 ## Keywords
 
-Data Science, Machine Learning, Deep Learning, Few-Shot Learning, Self-Supervised Learning, Computer Vision, Image Classification, Convolutional Neural Networks, Artificial Neural Networks, Autoencoders
+Data Science, Machine Learning (ML), Deep Learning(DL), Few-Shot Learning, Self-Supervised Learning, Computer Vision, Image Classification, Convolutional Neural Networks (CNNs), Artificial Neural Networks (ANNs), Autoencoders
 
