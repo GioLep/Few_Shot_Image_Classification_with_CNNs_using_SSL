@@ -137,7 +137,7 @@ During this thesis implementation, a total of three comparative cases are herein
 - [Kaggle](https://www.kaggle.com/)
 - [Python 3.x](https://www.python.org/)
 - [PyTorch](https://pytorch.org/)
-- [Weights & Biases](https://wandb.ai/site) (plots extraction)
+- [Weights & Biases](https://wandb.ai/site) 
 
 ## Datasets
 
