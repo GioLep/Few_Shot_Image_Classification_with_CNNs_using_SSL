@@ -9,7 +9,12 @@ This repository contains code and documentation for the diploma thesis titled "Î
 - **Supervisor**: Ioannis Boutalis
 - **Author and Affiliations**: Lepidas Georgios, Democritus University of Thrace. Contact: [georlepid@gmail.com](mailto:georlepid@gmail.com)
 
-![DUTH Logo](https://github.com/GioLep/Few_Shot_Image_Classification_with_CNNs/blob/main/images/DUTH%20Logo.png)
+<p align="center">
+  <img src="https://github.com/GioLep/Few_Shot_Image_Classification_with_CNNs/blob/main/images/DUTH%20Logo.png" alt="DUTH Logo">
+</p>
+
+<!--![DUTH Logo](https://github.com/GioLep/Few_Shot_Image_Classification_with_CNNs/blob/main/images/DUTH%20Logo.png) -->
+
 
 ## Structure
 
