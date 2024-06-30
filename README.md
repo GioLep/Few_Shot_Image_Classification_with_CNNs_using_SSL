@@ -135,6 +135,15 @@ The datasets used in this thesis were CIFAR-FS and FC-100. These datasets were p
 - [VAE Self-Supervision](https://github.com/julianstastny/VAE-ResNet18-PyTorch)
 
 
+## Acknowledgments
+
+- Jathushan Rajasegaran et al. for the [Generation-0 algorithm and code](https://github.com/brjathu/SKD).
+- Julian Stastny for the [VAE implementation and code](https://github.com/julianstastny/VAE-ResNet18-PyTorch).
+- The authors of the [CIFAR-FS and FC-100 datasets](https://www.dropbox.com/sh/6yd1ygtyc3yd981/AABVeEqzC08YQv4UZk7lNHvya?e=1&dl=0), and the developers of the [MetaOptNet repository](https://github.com/kjunelee/MetaOptNet) and [RFS repository](https://github.com/WangYueFt/rfs).
+- [Kaggle](https://www.kaggle.com/) for providing a platform with the necessary hardware to conduct the experiments.
+- [Weights & Biases](https://wandb.ai/site) for providing tools for plots extraction.
+
+
 ## References
 The references listed below are only those mentioned in this README.md:
 
