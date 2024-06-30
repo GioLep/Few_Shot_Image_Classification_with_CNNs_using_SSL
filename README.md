@@ -7,6 +7,7 @@ This repository contains code and documentation for the diploma thesis titled "Î
 - **Date**: October 2022
 - **Location**: Xanthi, Greece
 - **Supervisor**: Ioannis Boutalis
+- - **Author and Affiliations**: Lepidas Georgios, Democritus University of Thrace. Contact: [georlepid@gmail.com](mailto:georlepid@gmail.com)
 
 ![DUTH Logo](https://github.com/GioLep/Few_Shot_Image_Classification_with_CNNs/blob/main/images/DUTH%20Logo.png)
 
@@ -135,7 +136,7 @@ The datasets used in this thesis were CIFAR-FS and FC-100. These datasets were p
 
 
 ## References
-
+The references listed below are only those mentioned in this README.md:
 
 [1] Jathushan Rajasegaran et al., "Self-supervised Knowledge Distillation for Few-shot Learning", https://github.com/brjathu/SKD
 
