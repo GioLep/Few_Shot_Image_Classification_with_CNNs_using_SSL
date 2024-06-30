@@ -1,5 +1,5 @@
-# Few_Shot_Image_Classification_with_CNNs
-## Lepidas Georgios - Diploma Thesis on Few Shot Image Classification with CNNs in Python
+# Few-Shot Image Classification Using Convolutional Neural Networks (CNNs)
+## Lepidas Georgios - Diploma Thesis Few-Shot Image Classification Using Convolutional Neural Networks (CNNs) in Python
 
 This repository contains code and documentation for the diploma thesis titled "Ανάπτυξη Ταξινομητών με χρήση Συνελικτικών Νευρωνικών Δικτύων για Κατηγοριοποίηση με Ελάχιστα Παραδείγματα", written in Greek.
 
@@ -49,87 +49,86 @@ During this thesis implementation, a total of three comparative cases are herein
 - the effect of the convolutional networks Resnets [31] width to the same task, as well as the exploration of the assumption that the addition of a SE block [32] to the network would boost the models’ performance, and lastly,
 - the assumption that a different auxiliary Self-supervised task, specifically with the usage of a Variational Autoencoder [63], would lead to improvements to the Few-Shot Image Classification task.
 
-
 ## Contents
 
+### Introduction
+- Few-Shot Learning
+  - The Genesis
+  - Utility and Role in Artificial Intelligence
+- Convolutional Neural Networks
+  - History and Architectures
+- Experimental Part and Generation-0 Algorithm
+  - Description
+  - Related Research
+- Thesis Structure
 
-Introduction  
-0.1 Few-Shot Learning  
-0.1.1 The Genesis  
-0.1.2 Utility and Role in Artificial Intelligence  
-0.2 Convolutional Neural Networks  
-0.2.1 History and Architectures of Convolutional Neural Networks  
-0.3 Introduction to the Experimental Part and the Generation-0 Algorithm of [1]  
-0.3.1 Description of the Generation-0 Algorithm  
-0.3.2 Related Research - Similar Works in International Literature  
-0.4 Structure of the Thesis  
+### I. Theoretical Part
+#### Chapter 1 Convolutional Neural Networks
+1.1 Types of Learning
+  - Supervised Learning
+  - Unsupervised Learning
+  - Reinforcement Learning
+  - Self-supervised Learning
+1.2 Structure and Function of Convolutional Networks
+  - Structure and Layers of Convolutional Neural Networks
+  - Convolution Layer and Its Function
+  - Volumetric - Depth Convolution Processing
+  - Pooling Layer Function
+  - Batch Normalization Function
+  - Dropout Layer Function
+  - Useful Conclusions: Properties and Advantages
+1.3 Autoencoders
+  - Structure and Function
+  - Types of Autoencoders
 
-I. Theoretical Part  
-Chapter 1 Convolutional Neural Networks  
-1.1 Types of Learning  
-1.1.1 Supervised Learning  
-1.1.2 Unsupervised Learning  
-1.1.3 Reinforcement Learning  
-1.1.4 Self-supervised Learning  
-1.2 Structure and Function of Convolutional Networks  
-1.2.1 Structure and Layers of Convolutional Neural Networks  
-1.2.2 Convolution Layer and Its Function  
-1.2.3 Volumetric - Depth Convolution Processing  
-1.2.4 Pooling Layer Function  
-1.2.5 Batch Normalization Function  
-1.2.6 Dropout Layer Function  
-1.2.7 Useful Conclusions: Properties and Advantages  
-1.3 Autoencoders  
-1.3.1 Structure and Function  
-1.3.2 Types of Autoencoders  
+#### Chapter 2 Few-Shot Learning
+2.1 The Concept of Few-Shot Learning
+  - Technical Definition & General Approach to Few-Shot Learning
+  - Types of Processes
+  - Related Forms of Learning
+  - Common Datasets
+  - Mathematical Modeling of the Central Challenge of Few-Shot Learning
+2.2 Categorization of Few-Shot Learning Problems
+  - Focus on Data
+  - Focus on Model
+  - Focus on Algorithm
+2.3 Applications
+  - Computer Vision
+  - Robotics
+  - Natural Language Processing
+  - Acoustic Signal Processing
+  - Other Applications
 
-Chapter 2 Few-Shot Learning  
-2.1 The Concept of Few-Shot Learning  
-2.1.1 Technical Definition & General Approach to Few-Shot Learning  
-2.1.2 Types of Processes  
-2.1.3 Related Forms of Learning  
-2.1.4 Common Datasets  
-2.1.5 Mathematical Modeling of the Central Challenge of Few-Shot Learning  
-2.2 Categorization of Few-Shot Learning Problems  
-2.2.1 Focus on Data  
-2.2.2 Focus on Model  
-2.2.3 Focus on Algorithm  
-2.3 Applications  
-2.3.1 Computer Vision  
-2.3.2 Robotics  
-2.3.3 Natural Language Processing  
-2.3.4 Acoustic Signal Processing  
-2.3.5 Other Applications  
+### II. Experimental Part
+#### Chapter 3 Presentation of Experiments
+3.1 Structuring and Preparation
+  - Comparisons
+  - Few-Shot Categories
+  - Datasets
+  - Training – Experiment Details & Hyperparameters
+  - Evaluation on Few-Shot Task – Test Details & Hyperparameters
+3.2 Comparisons
+  - Comparison 1
+  - Comparison 2
+  - Comparison 3
+3.3 Conclusion and Future Work
+  - Assessment
+  - Future Endeavors
 
-II. Experimental Part  
-Chapter 3 Presentation of Experiments  
-3.1 Structuring and Preparation  
-3.1.1 Comparisons  
-3.1.2 Few-Shot Categories  
-3.1.3 Datasets  
-3.1.4 Training – Experiment Details & Hyperparameters  
-3.1.5 Evaluation on Few-Shot Task – Test Details & Hyperparameters  
-3.2 Comparisons  
-3.2.1 Comparison 1  
-3.2.2 Comparison 2  
-3.2.3 Comparison 3  
-3.3 Conclusion and Future Work  
-3.3.1 Assessment  
-3.3.2 Future Endeavors
+## Utilized Environment/Tools
 
-### Utilized Environment/Tools
-
-- Python 3.x
 - [Kaggle](https://www.kaggle.com/)
+- [Python 3.x](https://www.python.org/)
+- [PyTorch](https://pytorch.org/)
 - [Weights & Biases](https://wandb.ai/site) (plots extraction)
 
-### Datasets
+## Datasets
 
 The datasets used in this thesis were CIFAR-FS and FC-100. These datasets were preprocessed by the [MetaOptNet](https://github.com/kjunelee/MetaOptNet) repository. For convenience, the renamed versions of the datasets are provided by [RFS](https://github.com/WangYueFt/rfs) and can be downloaded from the following link:
 
 - [DropBox Data Packages Link](https://www.dropbox.com/sh/6yd1ygtyc3yd981/AABVeEqzC08YQv4UZk7lNHvya?e=1&dl=0)
 
-### Python Basis Implementations
+## Python Basis Implementations
 
 - [Baseline - Generation-0 - Rotation Self-Supervision](https://github.com/brjathu/SKD)
 - [VAE Self-Supervision](https://github.com/julianstastny/VAE-ResNet18-PyTorch)
