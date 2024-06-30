@@ -29,7 +29,7 @@ This repository contains code and documentation for the diploma thesis titled "Î
 
 - `results/`: Plot & Table results folder.
   - `Comparison 1/`: Depth comparison results.
-  - `Comparison 2/`: Width & Se comparison results.
+  - `Comparison 2/`: Width & SE comparison results.
   - `Comparison 3/`: Self-Supervision impact comparison results.
 
 ## Abstract
