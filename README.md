@@ -20,11 +20,11 @@ This repository contains code and documentation for the diploma thesis titled "Î
 ## Structure
 
 - `README.md`: This file.
-- `Thesis.pdf`: Full thesis document.
-- `Presentation.pptx`: Presentation slides.
 
 - `docs/`: Documentation folder.
   - `Codes_Directory_Content_Structure_Description.md`: Description of the experimental code folder structure & content.
+  - `Thesis.pdf`: Full thesis document.
+  - `Presentation.pptx`: Presentation slides.
 
 - `codes/`: Experimental code folder.
   - `Comparison_of_Depth-Width_Impact_and_SEBlock/`: Respective experimental notebooks.
