@@ -80,6 +80,7 @@ During this thesis implementation, a total of three comparative cases are herein
   - Unsupervised Learning
   - Reinforcement Learning
   - Self-supervised Learning
+    
 1.2 Structure and Function of Convolutional Networks
   - Structure and Layers of Convolutional Neural Networks
   - Convolution Layer and Its Function
@@ -88,6 +89,7 @@ During this thesis implementation, a total of three comparative cases are herein
   - Batch Normalization Function
   - Dropout Layer Function
   - Useful Conclusions: Properties and Advantages
+
 1.3 Autoencoders
   - Structure and Function
   - Types of Autoencoders
@@ -99,10 +101,12 @@ During this thesis implementation, a total of three comparative cases are herein
   - Related Forms of Learning
   - Common Datasets
   - Mathematical Modeling of the Central Challenge of Few-Shot Learning
+
 2.2 Categorization of Few-Shot Learning Problems
   - Focus on Data
   - Focus on Model
   - Focus on Algorithm
+
 2.3 Applications
   - Computer Vision
   - Robotics
@@ -118,10 +122,12 @@ During this thesis implementation, a total of three comparative cases are herein
   - Datasets
   - Training – Experiment Details & Hyperparameters
   - Evaluation on Few-Shot Task – Test Details & Hyperparameters
+
 3.2 Comparisons
   - Comparison 1
   - Comparison 2
   - Comparison 3
+
 3.3 Conclusion and Future Work
   - Assessment
   - Future Endeavors
