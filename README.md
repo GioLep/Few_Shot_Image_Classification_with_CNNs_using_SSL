@@ -1,12 +1,12 @@
 # Few_Shot_Image_Classification_with_CNNs
-Lepidas Georgios - Diploma Thesis on Few Shot Image Classification with CNNs in Python
+## Lepidas Georgios - Diploma Thesis on Few Shot Image Classification with CNNs in Python
 
 This repository contains code and documentation for the diploma thesis titled "Ανάπτυξη Ταξινομητών με χρήση Συνελικτικών Νευρωνικών Δικτύων για Κατηγοριοποίηση με Ελάχιστα Παραδείγματα", written in Greek.
 
 - **University**: Democritus University of Thrace (DUTH)
 - **Date**: October 2022
 - **Location**: Xanthi, Greece
-- **Supervisor**: Yannis Boutalis
+- **Supervisor**: Ioannis Boutalis
 
 ![DUTH Logo](https://github.com/GioLep/Few_Shot_Image_Classification_with_CNNs/blob/main/images/DUTH%20Logo.png)
 
@@ -17,7 +17,7 @@ This repository contains code and documentation for the diploma thesis titled "�
 - `Presentation.pptx`: Presentation slides.
 
 - `docs/`: Documentation folder.
-  - `Codes_Directory_Content_Structure_Description.md`: Detailed description of the experimental code.
+  - `Codes_Directory_Content_Structure_Description.md`: Description of the experimental code folder structure & content.
 
 - `codes/`: Experimental code folder.
   - `Comparison_of_Depth-Width_Impact_and_SEBlock/`: Respective experimental notebooks.
@@ -49,8 +49,6 @@ During this thesis implementation, a total of three comparative cases are herein
 - the effect of the convolutional networks Resnets [31] width to the same task, as well as the exploration of the assumption that the addition of a SE block [32] to the network would boost the models’ performance, and lastly,
 - the assumption that a different auxiliary Self-supervised task, specifically with the usage of a Variational Autoencoder [63], would lead to improvements to the Few-Shot Image Classification task.
 
-
-## Thesis Structure
 
 ## Contents
 
@@ -122,8 +120,8 @@ Chapter 3 Presentation of Experiments
 ### Utilized Environment/Tools
 
 - Python 3.x
-- Jupyter Notebook
-- Required libraries (listed in the `requirements.txt`)
+- [Kaggle](https://www.kaggle.com/)
+- [Weights & Biases](https://wandb.ai/site) (plots extraction)
 
 ### Datasets
 
@@ -142,11 +140,14 @@ The datasets used in this thesis were CIFAR-FS and FC-100. These datasets were p
 
 [1] Jathushan Rajasegaran et al., "Self-supervised Knowledge Distillation for Few-shot Learning", https://github.com/brjathu/SKD
 
-[31] Resnets: He, Kaiming, et al. "Deep residual learning for image recognition." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.
+[31] He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep residual learning for image recognition. In Proceedings 
+of the IEEE conference on computer vision and pattern recognition (pp. 770-778). 
 
-[32] SE block: Hu, Jie, Li Shen, and Gang Sun. "Squeeze-and-excitation networks." Proceedings of the IEEE conference on computer vision and pattern recognition. 2018.
+[32] Hu, J., Shen, L., & Sun, G. (2018). Squeeze-and-excitation networks. In Proceedings of the IEEE 
+conference on computer vision and pattern recognition (pp. 7132-7141). 
 
-[63] Variational Autoencoder: Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013).
+[63] Kingma, D. P., & Welling, M. (2014, April). Stochastic gradient VB and the variational auto-encoder. 
+In Second International Conference on Learning Representations, ICLR (Vol. 19, p. 121).
 
 
 ## Keywords
