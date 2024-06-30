@@ -29,8 +29,8 @@ This repository contains code and documentation for the diploma thesis titled "Î
   - `Presentation.pptx`: Presentation slides for the thesis defense.
 
 - `codes/`: Experimental code folder.
-  - `Comparison_of_Depth-Width_Impact_and_SEBlock/`: Notebooks/scripts for experiments related to depth, width, and SE block impacts.
-  - `Comparison_of_Self-Supervision_Impact_(VAE)/`: Notebooks/scripts for experiments exploring the impact of self-supervised learning.
+  - `Comparison_of_Depth-Width_Impact_and_SEBlock/`: Notebooks for experiments related to depth, width, and SE block impacts.
+  - `Comparison_of_Self-Supervision_Impact_(VAE)/`: Notebooks for experiments exploring the impact of self-supervised learning.
 
 - `images/`: Repository for images used within the documentation.
   - `DUTH_logo.png`: Logo representing the Democritus University of Thrace.
