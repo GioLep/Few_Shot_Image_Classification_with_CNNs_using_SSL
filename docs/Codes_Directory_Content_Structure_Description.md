@@ -1,4 +1,4 @@
-# Brief Description of Codes
+# Description of Codes Directory
 
 This folder contains the programming bases used during the experimental analysis of this thesis. They are organized into two subfolders:
 
