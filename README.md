@@ -19,24 +19,28 @@ This repository contains code and documentation for the diploma thesis titled "Î
 
 ## Structure
 
-- `README.md`: This file.
+- `README.md`: Overview and description of the diploma thesis.
+
+- `LICENSE`: License file detailing the terms under which the project is distributed.
 
 - `docs/`: Documentation folder.
-  - `Codes_Directory_Content_Structure_Description.md`: Description of the experimental code folder structure & content.
-  - `Thesis.pdf`: Full thesis document.
-  - `Presentation.pptx`: Presentation slides.
+  - `Codes_Directory_Content_Structure_Description.md`: Explanation of codes directory structure and content.
+  - `Thesis.pdf`: Complete thesis document in PDF format.
+  - `Presentation.pptx`: Presentation slides for the thesis defense.
 
 - `codes/`: Experimental code folder.
-  - `Comparison_of_Depth-Width_Impact_and_SEBlock/`: Respective experimental notebooks.
-  - `Comparison_of_Self-Supervision_Impact_(VAE)/`: Respective experimental notebooks.
+  - `Comparison_of_Depth-Width_Impact_and_SEBlock/`: Notebooks/scripts for experiments related to depth, width, and SE block impacts.
+  - `Comparison_of_Self-Supervision_Impact_(VAE)/`: Notebooks/scripts for experiments exploring the impact of self-supervised learning.
 
-- `images/`: Contains images used in the documentation.
-  - `DUTH_logo.png`: Logo of the Democritus University of Thrace.
+- `images/`: Repository for images used within the documentation.
+  - `DUTH_logo.png`: Logo representing the Democritus University of Thrace.
 
-- `results/`: Plot & Table results folder.
-  - `Comparison 1/`: Depth comparison results.
-  - `Comparison 2/`: Width & SE comparison results.
-  - `Comparison 3/`: Self-Supervision impact comparison results.
+- `results/`: Folder containing plots and tables from experimental results.
+  - `Comparison 1/`: Results comparing the impact of depth variations.
+  - `Comparison 2/`: Results examining the influence of width adjustments and SE block integration.
+  - `Comparison 3/`: Results assessing the effect of self-supervised learning methods.
+
+
 
 ## Abstract
 
