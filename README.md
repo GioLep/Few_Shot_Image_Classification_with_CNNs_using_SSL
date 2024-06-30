@@ -1,7 +1,7 @@
 # Few-Shot Image Classification Using Convolutional Neural Networks (CNNs)
 ## Lepidas Georgios - Diploma Thesis Few-Shot Image Classification Using Convolutional Neural Networks (CNNs) in Python
 
-This repository contains code and documentation for the diploma thesis titled "Ανάπτυξη Ταξινομητών με χρήση Συνελικτικών Νευρωνικών Δικτύων για Κατηγοριοποίηση με Ελάχιστα Παραδείγματα", written in Greek.
+This repository contains code, documentation and results for the diploma thesis titled "Ανάπτυξη Ταξινομητών με χρήση Συνελικτικών Νευρωνικών Δικτύων για Κατηγοριοποίηση με Ελάχιστα Παραδείγματα", written in Greek.
 
 - **University**: Democritus University of Thrace (DUTH)
 - **Date**: October 2022
