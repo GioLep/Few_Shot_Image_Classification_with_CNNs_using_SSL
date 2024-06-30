@@ -188,5 +188,5 @@ In Second International Conference on Learning Representations, ICLR (Vol. 19, p
 
 ## Keywords
 
-Data Science, Machine Learning (ML), Deep Learning(DL), Few-Shot Learning, Self-Supervised Learning, Computer Vision, Image Classification, Convolutional Neural Networks (CNNs), Artificial Neural Networks (ANNs), Autoencoders
+Data Science, Machine Learning (ML), Deep Learning (DL), Few-Shot Learning, Self-Supervised Learning, Computer Vision, Image Classification, Convolutional Neural Networks (CNNs), Artificial Neural Networks (ANNs), Autoencoders
 
