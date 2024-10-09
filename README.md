@@ -1,5 +1,5 @@
-# Few-Shot Image Classification Using Convolutional Neural Networks (CNNs)
-## Lepidas Georgios - Diploma Thesis Few-Shot Image Classification Using Convolutional Neural Networks (CNNs) in Python
+# Few-Shot Image Classification with Convolutional Neural Networks (CNNs) using Self Supervised Learning (SSL)
+## Lepidas Georgios - Diploma Thesis Few-Shot Image Classification with Convolutional Neural Networks (CNNs) using Self Supervised Learning (SSL) in Python
 
 This repository contains code, documentation and results for the diploma thesis titled "Ανάπτυξη Ταξινομητών με χρήση Συνελικτικών Νευρωνικών Δικτύων για Κατηγοριοποίηση με Ελάχιστα Παραδείγματα", written in Greek.
 
