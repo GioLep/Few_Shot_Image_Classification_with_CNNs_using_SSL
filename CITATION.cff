@@ -5,11 +5,11 @@ authors:
     given-names: Georgios
     affiliation: Democritus University of Thrace
     email: georlepid@gmail.com
+    orcid: https://orcid.org/0009-0003-5788-0053
 title: "Few-Shot Image Classification with Convolutional Neural Networks (CNNs) using Self Supervised Learning (SSL)"
 abstract: >
   This repository contains the code, documentation, and results for a diploma thesis focused on Few-Shot Learning and Convolutional Neural Networks, using Self-Supervised Learning techniques.
   It investigates the performance of convolutional classifiers with minimal data, following the Generation-0 algorithm and novel architectural adjustments.
-license: MIT
 keywords:
   - Machine Learning
   - Few-Shot Learning
@@ -17,7 +17,9 @@ keywords:
   - CNN
   - Image Classification
   - Deep Learning
+license: MIT
 repository-code: https://github.com/GioLep/Few_Shot_Image_Classification_with_CNNs
 date-released: 2022-10-01
-version: "1.1.0"
+version: "1.0.0"
+doi: 10.5281/zenodo.16041614
 type: software
