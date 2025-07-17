@@ -1,5 +1,7 @@
-# Few-Shot Image Classification with Convolutional Neural Networks (CNNs) using Self Supervised Learning (SSL)
+# Few-Shot Image Classification with Convolutional Neural Networks (CNNs) using Self Supervised Learning (SSL) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16041614.svg)](https://doi.org/10.5281/zenodo.16041614)
 ## Lepidas Georgios - Diploma Thesis Few-Shot Image Classification with Convolutional Neural Networks (CNNs) using Self Supervised Learning (SSL) in Python
+
+
 
 This repository contains code, documentation and results for the diploma thesis titled "Ανάπτυξη Ταξινομητών με χρήση Συνελικτικών Νευρωνικών Δικτύων για Κατηγοριοποίηση με Ελάχιστα Παραδείγματα", written in Greek.
 
@@ -22,6 +24,8 @@ This repository contains code, documentation and results for the diploma thesis 
 - `README.md`: Overview and description of the diploma thesis.
 
 - `LICENSE`: License file detailing the terms under which the project is distributed.
+
+- `CITATION.cff`: Citation metadata file for academic referencing. Contains details like title, authorship, DOI, versioning, and ORCID.
 
 - `docs/`: Documentation folder.
   - `Codes_Directory_Content_Structure_Description.md`: Explanation of codes directory structure and content.
@@ -172,6 +176,28 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Note: This repository includes references to external tools and libraries. Please check their individual licenses for terms of use.
+
+
+## Citation
+
+If you use this code or data in your research, please cite:
+
+> G. Lepidas. *Few-Shot Image Classification with Convolutional Neural Networks (CNNs) using Self Supervised Learning (SSL).* Diploma Thesis, Democritus University of Thrace, 2022.  
+> DOI: [10.5281/zenodo.16041614](https://doi.org/10.5281/zenodo.16041614)
+
+Or use the following BibTeX entry:
+
+```bibtex
+@software{lepidas2022fewshot,
+  author       = {Georgios Lepidas},
+  title        = {Few-Shot Image Classification with Convolutional Neural Networks (CNNs) using Self Supervised Learning (SSL)},
+  year         = {2022},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.16041614},
+  url          = {https://github.com/GioLep/Few_Shot_Image_Classification_with_CNNs}
+}
+```
+Citation metadata is also available in the CITATION.cff file for use with GitHub’s citation tool and other scholarly software.
 
 
 
