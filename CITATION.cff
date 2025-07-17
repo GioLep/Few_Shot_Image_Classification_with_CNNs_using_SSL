@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code for your research, please cite the following work:"
+authors:
+  - family-names: Lepidas
+    given-names: Georgios
+    affiliation: Democritus University of Thrace
+    email: georlepid@gmail.com
+title: "Few-Shot Image Classification with Convolutional Neural Networks (CNNs) using Self Supervised Learning (SSL)"
+abstract: >
+  This repository contains the code, documentation, and results for a diploma thesis focused on Few-Shot Learning and Convolutional Neural Networks, using Self-Supervised Learning techniques.
+  It investigates the performance of convolutional classifiers with minimal data, following the Generation-0 algorithm and novel architectural adjustments.
+license: MIT
+keywords:
+  - Machine Learning
+  - Few-Shot Learning
+  - Self-Supervised Learning
+  - CNN
+  - Image Classification
+  - Deep Learning
+repository-code: https://github.com/GioLep/Few_Shot_Image_Classification_with_CNNs
+date-released: 2022-10-01
+version: "1.0"
+type: software
