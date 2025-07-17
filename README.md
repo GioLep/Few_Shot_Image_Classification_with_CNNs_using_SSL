@@ -174,6 +174,24 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Note: This repository includes references to external tools and libraries. Please check their individual licenses for terms of use.
 
 
+## Citation
+
+If you use this code in your research or academic work, please cite:
+
+> G. Lepidas. "Few-Shot Image Classification with Convolutional Neural Networks (CNNs) using Self Supervised Learning (SSL)." Diploma Thesis, Democritus University of Thrace, 2022.
+
+Or use the following BibTeX:
+
+```bibtex
+@misc{lepidas2022fewshot,
+  author       = {Georgios Lepidas},
+  title        = {Few-Shot Image Classification with Convolutional Neural Networks (CNNs) using Self Supervised Learning (SSL)},
+  year         = {2022},
+  note         = {Diploma Thesis, Democritus University of Thrace},
+  url          = {https://github.com/GioLep/Few_Shot_Image_Classification_with_CNNs}
+}
+
+
 ## References
 The references listed below are only those mentioned in this README.md:
 
