@@ -19,5 +19,5 @@ keywords:
   - Deep Learning
 repository-code: https://github.com/GioLep/Few_Shot_Image_Classification_with_CNNs
 date-released: 2022-10-01
-version: "1.0"
+version: "1.1.0"
 type: software
